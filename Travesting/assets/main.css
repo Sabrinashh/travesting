@@ -1,0 +1,19 @@
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 35%;
+    margin-top: -22px;
+    padding: 16px;
+    color:white;
+    font-size: 18px;
+    transition: 0.5s ;
+  }
+  .next {
+    right: 340px;
+  }
+  .prev{
+    left:340px
+  }
+.h{
+    height: 430px;
+}
